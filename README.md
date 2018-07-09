@@ -1,5 +1,5 @@
 # mm-hypothesis
-This is the code repository for "Heuristic Framework for Testing the Multi-Manifold Hypothesis" by F. Patricia Medina, Linda Ness, Melanie Webr and Karamatou Yacoubou Djima.
+This is the code repository for "Heuristic Framework for Testing the Multi-Manifold Hypothesis" by F. Patricia Medina, Linda Ness, Melanie Webr and Karamatou Yacoubou Djima. arXiv:1807.00349
 
 -----------
 
